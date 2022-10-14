@@ -8,7 +8,7 @@
  [In Arabic](https://youtu.be/LRS8lxKiss0)
  
 
------
+
 
 ## Consept 
 
@@ -21,14 +21,14 @@
 [OOP in java](https://youtu.be/FaaM6uVbuJM)
 
 
-----
+
 ## Assembly
 
 ` lecture :`
 
 [play list](https://youtu.be/VXyjgzbxH0Q)
 
----
+
 
 ## web 
 
@@ -37,11 +37,11 @@
 [El zeroo](https://youtu.be/4OGWPn-Q__I)
 
 
----
+
 ## Algorithms
 
 
----
+
 ## Graphics
 
 

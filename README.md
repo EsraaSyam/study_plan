@@ -26,7 +26,7 @@
 
 ` lecture :`
 
-[play list](https://youtu.be/VXyjgzbxH0Q)
+[play list](https://www.youtube.com/watch?v=VXyjgzbxH0Q&list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN)
 
 
 
